@@ -67,7 +67,9 @@ Main Variables:
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-├── visualizations/
+|   ├── Y_Music_Project.ipynb
+├── docs/
+|   ├── Y_Music_Project.pdf
 ├── README.md
 └── requirements.txt
 ```
