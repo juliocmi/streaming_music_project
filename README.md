@@ -50,9 +50,9 @@ Main Variables:
 
 ## 📈 Exploratory Data Analysis (EDA)
 
-- Pop is the most streamed genre, accounting for 32% of total plays
-- Peak listening activity occurs between 6:00 PM and 10:00 PM
-- Highly active users show strong artist loyalty
+- Pop is the most streamed genre for the two cities (Springfield and Shellbyville)
+- Springfield is the city with most streamed music with +42000 play tracks
+- Highly active users are in Friday
 - Significant differences in listening behavior across countries
 
 ## 📊 Results & Key Insights
