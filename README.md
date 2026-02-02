@@ -83,3 +83,10 @@ Main Variables:
 - Implementation of recommendation models (Machine Learning)
 - Predictive Analysis
 - Automated data pipelines for scalability
+
+## 🥇 Proven Skills
+
+- Data Cleaning Process
+- Python Coding in Real Projects
+- Documentation Projects
+- Research Methodology
